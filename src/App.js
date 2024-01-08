@@ -15,9 +15,14 @@
       <WhatGTP3/>
       <Features/>
       <Possibility/>
+      
       <Cta/>
       <Blog/>
+      <hr></hr>
+        <h1 style={{color:"#fff"}}>footer at 02:55 </h1>
+      <hr></hr>
       <Footer/>
+      
         </div>
    )
  }
@@ -25,7 +30,7 @@
 
 
  /*
-          ---------STOP----------   01:07 mint
+          
  
  
  
